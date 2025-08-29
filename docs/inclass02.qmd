@@ -25,6 +25,10 @@ Save the document and commit your change
 
 Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
 
+```{r birthday}
+sum(c(5, 23, 1997))
+```
+
 Save the document and commit your change.
 
 ## Render the document
