@@ -17,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+I am originally from [Ashland, Oregon]{style="color:blue;"}. My thesis research *assesses the impact of various environmental factors such as weather, vegetation, and neighbor density on Burrowing Owl nest productivity and adult survival.*
 
 Save the document and commit your change
 
